@@ -1,5 +1,5 @@
 <? include "header.php" ?>
 
-  갤러리
+birthday
 <? include "footer.php" ?>
 

@@ -1,5 +1,5 @@
 <? include "header.php" ?>
 
-  프로필
+  abuot
 <? include "footer.php" ?>
 
